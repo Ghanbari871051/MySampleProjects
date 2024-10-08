@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.quote-box {
+  margin: auto;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  max-width: 600px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
